@@ -1,0 +1,10 @@
+D:\Learning TI\CURSO_AB\25032022\Exercicio_1_22042022\Exercicio_1_22042022\bin\Debug\Exercicio_1_22042022.exe.config
+D:\Learning TI\CURSO_AB\Exercicio_1_22042022\Exercicio_1_22042022\bin\Debug\Exercicio_1_22042022.exe.config
+D:\Learning TI\CURSO_AB\Exercicio_1_22042022\Exercicio_1_22042022\bin\Debug\Exercicio_1_22042022.exe
+D:\Learning TI\CURSO_AB\Exercicio_1_22042022\Exercicio_1_22042022\bin\Debug\Exercicio_1_22042022.pdb
+D:\Learning TI\CURSO_AB\Exercicio_1_22042022\Exercicio_1_22042022\obj\Debug\Exercicio_1_22042022.Properties.Resources.resources
+D:\Learning TI\CURSO_AB\Exercicio_1_22042022\Exercicio_1_22042022\obj\Debug\Exercicio_1_22042022.csproj.GenerateResource.Cache
+D:\Learning TI\CURSO_AB\Exercicio_1_22042022\Exercicio_1_22042022\obj\Debug\Exercicio_1_22042022.exe
+D:\Learning TI\CURSO_AB\Exercicio_1_22042022\Exercicio_1_22042022\obj\Debug\Exercicio_1_22042022.pdb
+D:\Learning TI\CURSO_AB\Exercicio_1_22042022\Exercicio_1_22042022\obj\Debug\Exercicio_1_22042022.frmExercicio_1_22042022.resources
+D:\Learning TI\CURSO_AB\Exercicio_1_22042022\Exercicio_1_22042022\obj\Debug\Exercicio_1_22042022.csprojResolveAssemblyReference.cache

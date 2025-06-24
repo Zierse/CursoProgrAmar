@@ -1,0 +1,13 @@
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\bin\Debug\stringBuilder_01_30082023.exe.config
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\obj\Debug\stringBuilder_01_30082023.csprojResolveAssemblyReference.cache
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\obj\Debug\stringBuilder_01_30082023.frm_01_30082023.resources
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\obj\Debug\stringBuilder_01_30082023.Properties.Resources.resources
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\obj\Debug\stringBuilder_01_30082023.csproj.GenerateResource.Cache
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\bin\Debug\stringBuilder_01_30082023.exe
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\bin\Debug\stringBuilder_01_30082023.pdb
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\bin\Debug\PreferenciasBusiness.dll
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\bin\Debug\PreferenciasDAO_DAL.dll
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\bin\Debug\PreferenciasBusiness.pdb
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\bin\Debug\PreferenciasDAO_DAL.pdb
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\obj\Debug\stringBuilder_01_30082023.exe
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\stringBuilder_01_30082023\obj\Debug\stringBuilder_01_30082023.pdb

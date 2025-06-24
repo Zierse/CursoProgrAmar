@@ -1,0 +1,7 @@
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\PreferenciasBusiness\bin\Debug\PreferenciasBusiness.dll
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\PreferenciasBusiness\bin\Debug\PreferenciasBusiness.pdb
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\PreferenciasBusiness\bin\Debug\PreferenciasDAO_DAL.dll
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\PreferenciasBusiness\bin\Debug\PreferenciasDAO_DAL.pdb
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\PreferenciasBusiness\obj\Debug\PreferenciasBusiness.csprojResolveAssemblyReference.cache
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\PreferenciasBusiness\obj\Debug\PreferenciasBusiness.dll
+D:\Learning TI\CURSO_AB\25032022\stringBuilder_01_30082023\PreferenciasBusiness\obj\Debug\PreferenciasBusiness.pdb
